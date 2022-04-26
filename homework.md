@@ -50,13 +50,14 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to show off code to each other they can put it on Github. Other Users can work with this prodject. And make coppies for users project for 
+their use.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You can freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
