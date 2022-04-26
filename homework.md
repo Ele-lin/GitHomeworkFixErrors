@@ -44,14 +44,14 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used to create dynamic and interactive web content.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github. Other Users can work with this prodject. And make coppies for users project for 
-their use.
+their use
 
 ## Question 9
 
