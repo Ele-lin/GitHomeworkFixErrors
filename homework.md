@@ -63,7 +63,7 @@ You can freely experiment with changes without affecting the original project.
 
 What happens when you clone a repostory?
 
-It send it to a friend
+I cop the repostory from GitHub/com to our local machine.
 
 ## Question 11
 
