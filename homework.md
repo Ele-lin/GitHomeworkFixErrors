@@ -63,13 +63,13 @@ You can freely experiment with changes without affecting the original project.
 
 What happens when you clone a repostory?
 
-I cop the repostory from GitHub/com to our local machine.
+I cop the repostory from GitHub.com to our local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When a contributor/developer is ready to begin the process of merging new code changes with the main project repository.
 
 ## Question 12
 
