@@ -111,4 +111,4 @@ To communication between team members
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+ Typing the command git help 
