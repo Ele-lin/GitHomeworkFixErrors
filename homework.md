@@ -93,7 +93,7 @@ GitHub is the largest web service for hosting IT projects and their joint develo
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Give comment for you changes into Github
 
 ## Question 16
 
