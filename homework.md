@@ -75,7 +75,7 @@ When a contributor/developer is ready to begin the process of merging new code c
 
 What is the Git History log?
 
-It lets you see into the future
+It is a utility tool to review and read a history of everything that happens to a repository. 
 
 ## Question 13
 
