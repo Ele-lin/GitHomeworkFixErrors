@@ -105,7 +105,7 @@ Visual Studio
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To communication between team members
 
 ## Question 18
 
