@@ -87,7 +87,7 @@ You send the committed changes in your local repository to the remote repository
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is the largest web service for hosting IT projects and their joint development.
 
 ## Question 15
 
