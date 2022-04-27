@@ -81,7 +81,7 @@ It is a utility tool to review and read a history of everything that happens to 
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the committed changes in your local repository to the remote repository on GitHub.
 
 ## Question 14
 
